@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kanye-quotes/static/css/main.eb0c67d3.chunk.css",
+    "main.css": "/kanye-quotes/static/css/main.469f5406.chunk.css",
     "main.js": "/kanye-quotes/static/js/main.5182283b.chunk.js",
     "main.js.map": "/kanye-quotes/static/js/main.5182283b.chunk.js.map",
     "runtime-main.js": "/kanye-quotes/static/js/runtime-main.da440032.js",
@@ -12,14 +12,14 @@
     "static/js/3.7f737f05.chunk.js.map": "/kanye-quotes/static/js/3.7f737f05.chunk.js.map",
     "index.html": "/kanye-quotes/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/kanye-quotes/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.eb0c67d3.chunk.css.map": "/kanye-quotes/static/css/main.eb0c67d3.chunk.css.map",
+    "static/css/main.469f5406.chunk.css.map": "/kanye-quotes/static/css/main.469f5406.chunk.css.map",
     "static/js/2.d65c744f.chunk.js.LICENSE.txt": "/kanye-quotes/static/js/2.d65c744f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.da440032.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.d65c744f.chunk.js",
-    "static/css/main.eb0c67d3.chunk.css",
+    "static/css/main.469f5406.chunk.css",
     "static/js/main.5182283b.chunk.js"
   ]
 }
